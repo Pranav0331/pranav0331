@@ -26,9 +26,15 @@ Currently focused on becoming a better software engineer by building projects, p
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+</div>. -->
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Pranav0331/Pranav0331/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 <!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Pranav0331&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
