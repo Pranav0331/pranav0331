@@ -1,7 +1,22 @@
-# 💫 Hi 👋, I'm Imran Alam
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+# 💫 Hi 👋, I'm Pranav Mathur
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+B.Tech Student in Electrical & Computer Engineering • Aspiring Full Stack Developer • AI Enthusiast • DSA with Java.
+
+I enjoy building real-world web applications, exploring AI, and solving problems through code.
+Currently focused on becoming a better software engineer by building projects, participating in hackathons, and improving my problem-solving skills every day.
+
+🌐 Visit My Portfolio 👉 https://pranavmathur.vercel.app/ For My Work, Projects & Collaboration. 🤝
+
+<h2>🏆 Achievements</h2>
+
+• 🥈 2nd Place — Cognitive Chaos Hackathon
+
+• 🏅 Smart India Hackathon (College Level)
+
+• Built multiple Full Stack & AI-powered Projects
+
+• Continuously improving through projects and DSA
+
 
 - 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** Enter your tech here
