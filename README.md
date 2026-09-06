@@ -11,7 +11,7 @@ Currently focused on becoming a better software engineer by building projects, p
 
 • Winner — 🥈 2nd Position at the Cognitive Chaos Hackathon, organized by HackBriven in collaboration with the Microsoft Azure Developer Community.
 
-• Winner - Internal Smart India Hackathon (SIH) 2025 at ABES Engineering College
+• Winner — Internal Smart India Hackathon (SIH) 2025 at ABES Engineering College
 
 • Built multiple full-stack & AI-powered Projects
 
